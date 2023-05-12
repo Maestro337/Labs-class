@@ -1,0 +1,7 @@
+﻿  Labs 13.cpp
+C:\Users\79922\source\repos\Labs 13\Labs 13\Labs 13.cpp(25,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79922\source\repos\Labs 13\Labs 13\Labs 13.cpp(71,18): warning C4267: /=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79922\source\repos\Labs 13\Labs 13\Labs 13.cpp(134,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Pair.cpp
+  Создание кода...
+  Labs 13.vcxproj -> C:\Users\79922\source\repos\Labs 13\x64\Debug\Labs 13.exe
