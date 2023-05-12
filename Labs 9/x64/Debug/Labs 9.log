@@ -1,0 +1,82 @@
+﻿  Error.cpp
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00CB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00E8", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00EF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 9\Labs 9\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F3", невозможно представить в текущей кодовой странице (1251)
+  Labs 9.cpp
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(3,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(3,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(5,2): error C3861: setlocale: идентификатор не найден
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(6,2): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(6,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pair"
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(6,7): error C3861: pair: идентификатор не найден
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(7,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(7,14): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(7,29): error C2065: pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(7,20): error C3861: list1: идентификатор не найден
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(8,2): error C2065: list1: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(8,13): error C2065: pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(9,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(9,10): error C2065: list1: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(9,19): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(10,2): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(10,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pair2"
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(10,7): error C3861: pair2: идентификатор не найден
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(11,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(11,14): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(11,29): error C2065: pair2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(11,20): error C3861: list2: идентификатор не найден
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(12,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(12,10): error C2065: list2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(12,19): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(13,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(13,14): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(13,20): error C2065: list: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(13,27): error C2065: list1: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(13,35): error C2065: list2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(14,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(14,10): error C2065: list: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(14,18): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(15,2): error C2065: Iterator: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(15,11): error C2065: Pair: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(15,17): error C2065: it: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(15,22): error C2065: list: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(16,9): error C2065: it: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(16,15): error C2065: list: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(16,28): error C2065: it: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(18,3): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(18,12): error C2065: it: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(20,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(20,11): error C2065: it: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(20,17): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(21,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(21,20): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(22,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(22,14): error C2062: тип "double" не требуется
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(23,2): error C2065: list3: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(24,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(24,10): error C2065: list3: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(24,19): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(25,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(25,14): error C2062: тип "double" не требуется
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(26,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(26,10): error C2065: list4: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(26,19): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(27,2): error C2065: LinkedList: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(27,14): error C2062: тип "double" не требуется
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(28,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(28,10): error C2065: list34: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(28,20): error C2065: endl: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(29,2): error C2065: Iterator: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(29,11): error C2062: тип "double" не требуется
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(30,9): error C2065: it2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(30,16): error C2065: list34: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(30,31): error C2065: it2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(32,3): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(32,12): error C2065: it2: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(34,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 9\Labs 9\Labs 9.cpp(34,11): error C2065: it2: необъявленный идентификатор
+  Создание кода...
