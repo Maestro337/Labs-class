@@ -1,0 +1,94 @@
+﻿  Vector.cpp
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(2,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "using namespace"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(2,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(4,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(5,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(6,2): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(7,2): error C2065: size: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(8,2): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(9,1): warning C4508: Vector: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(10,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(11,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(10,16): error C2084: функция "int Vector(void)" уже имеет текст реализации
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(4,9): message : см. предыдущее определение "Vector"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(12,6): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(12,25): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(12,28): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(13,2): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(16,1): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(17,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(18,2): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(18,12): error C2061: синтаксическая ошибка: идентификатор "Object"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(19,2): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(20,2): error C2065: size: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(21,1): warning C4508: Vector: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,14): error C2182: "Add": недопустимое использование "void"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,18): error C2065: Object: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,26): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,29): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(24,2): error C2059: синтаксическая ошибка: if
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(25,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(25,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(29,1): error C2059: синтаксическая ошибка: }
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(29,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(32,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(32,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(43,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(43,14): error C2365: Add: переопределение; предыдущим определением было "переменная данных"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(23,14): message : см. объявление "Add"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(45,6): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(45,13): error C2065: size: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(46,2): error C2065: Object: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(46,10): error C2065: o: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(47,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(49,2): error C2065: cin: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(54,3): error C2065: Person: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(54,11): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(54,19): error C2061: синтаксическая ошибка: идентификатор "Person"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(55,3): error C2065: cin: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(55,11): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(56,3): error C2065: o: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(56,7): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(57,7): error C2065: o: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(62,3): error C2065: Student: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(62,12): error C2065: s: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(62,20): error C2061: синтаксическая ошибка: идентификатор "Student"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(63,3): error C2065: cin: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(63,11): error C2065: s: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(64,3): error C2065: o: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(64,7): error C2065: s: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(65,7): error C2065: o: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(70,3): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(76,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(78,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(78,11): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(81,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(83,6): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(85,2): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(88,5): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(90,9): error C2065: size: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(92,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(92,38): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(92,38): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(94,6): error C2065: e: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(94,16): error C2065: evMessage: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(96,3): error C2065: Object: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(96,12): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(96,16): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(97,23): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(99,6): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(99,22): error C2065: e: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(100,4): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(105,6): error C2653: Vector: не является именем класса или пространства имен
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(108,6): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(110,3): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(113,2): error C2065: Object: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(113,11): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(113,15): error C2065: beg: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(114,22): error C2065: cur: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(116,10): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(117,3): error C2065: p: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(119,2): error C2065: cout: необъявленный идентификатор
+C:\Users\79922\source\repos\Labs 8\Labs 8\Vector.cpp(119,78): error C2065: cur: необъявленный идентификатор
