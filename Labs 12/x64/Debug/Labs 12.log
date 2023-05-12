@@ -1,0 +1,19 @@
+﻿  Error.cpp
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00CB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00E8", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00EF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\79922\source\repos\Labs 12\Labs 12\Error.h(33,41): warning C4566: символ, представленный универсальным именем символа "\u00F3", невозможно представить в текущей кодовой странице (1251)
+  Labs 12.cpp
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(66,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(67,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(77,21): warning C4267: /=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(118,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(119,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79922\source\repos\Labs 12\Labs 12\Labs 12.cpp(129,21): warning C4267: /=: преобразование из "size_t" в "int"; возможна потеря данных
+  Pair.cpp
+  Создание кода...
